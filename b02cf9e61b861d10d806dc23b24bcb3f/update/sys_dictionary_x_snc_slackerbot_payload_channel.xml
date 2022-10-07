@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>earl.duque</sys_created_by>
         <sys_created_on>2022-10-01 06:58:00</sys_created_on>
-        <sys_id>48bd97c9db565510791d8f8d1396192e</sys_id>
+        <sys_id>50dcabe547d699506eaffa37536d4344</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Channel</sys_name>
         <sys_package display_value="SlackerBot" source="x_snc_slackerbot">b02cf9e61b861d10d806dc23b24bcb3f</sys_package>
         <sys_policy/>
         <sys_scope display_value="SlackerBot">b02cf9e61b861d10d806dc23b24bcb3f</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_slackerbot_payload_channel</sys_update_name>
-        <sys_updated_by>earl.duque</sys_updated_by>
-        <sys_updated_on>2022-10-01 06:58:00</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-02 21:21:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

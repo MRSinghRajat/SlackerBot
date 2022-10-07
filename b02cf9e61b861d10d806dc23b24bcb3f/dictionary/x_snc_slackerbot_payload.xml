@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Payload" max_length="40" name="x_snc_slackerbot_payload" sizeclass="2383" type="collection">
+    <element label="Payload" max_length="40" name="x_snc_slackerbot_payload" sizeclass="66" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Channel" max_length="40" name="channel" type="string"/>
         <element label="Payload" max_length="4000" name="payload" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Timestamp" max_length="40" name="ts" type="string"/>
